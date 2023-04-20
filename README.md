@@ -7,6 +7,7 @@ Normal Map Generator is a tool written in Python
 - Python
 - Scipy
 - Numpy
+- matplotlib
 
 ## Usage
 
